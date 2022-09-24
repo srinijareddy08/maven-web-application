@@ -102,7 +102,7 @@
 	    </repository>
 	   <repository>
               <id>central</id>
-             <name>central repo m2</name>
+             <name>central repo .m2</name>
              <url>http://central.maven.org/maven2</url>
            </repository>
 
