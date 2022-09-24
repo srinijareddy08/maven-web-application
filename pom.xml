@@ -95,6 +95,13 @@
 	
 	<distributionManagement>
 	
+       <repository>
+          <id>central</id>
+          <url>http://repo.maven.apache.org/maven2</url>
+          <releases>
+            <enabled>true</enabled>
+          </releases>
+        </repository>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
