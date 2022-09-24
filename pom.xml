@@ -102,11 +102,10 @@
 	    </repository>
 	   <repository>
               <id>central</id>
-             <name>central repo .m2</name>
+             <name>central repo m2</name>
              <url>http://central.maven.org/maven2</url>
            </repository>
-
-	    <snapshotRepository>
+           <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
